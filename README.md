@@ -59,24 +59,6 @@ Copy `.env.example` to `.env` and set values as needed:
 - `ENABLE_DAILY_SYNC`, `DAILY_SYNC_HOUR`, `DAILY_SYNC_MINUTE` for automatic sync
 - `MAX_PDF_MB` for upload size
 - `RATE_LIMIT_PER_MINUTE`, `SECRET_KEY` for deployment hardening
-- `OPENAI_API_KEY` or `GEMINI_API_KEY` placeholders for future provider-backed AI calls
-
-Without `NEWS_API_KEY`, sync runs in local sample mode so the workflow can still be tested.
-
-## API Highlights
-
-| Method | Route | Purpose |
-|---|---|---|
-| GET | `/api/health` | API, storage, and scheduler status |
-| GET/PUT | `/api/profile` | Read and save editable profile |
-| GET | `/api/articles` | List/search/filter articles |
-| POST | `/api/articles` | Create a manual analysed article |
-| POST | `/api/ingestion/pdf` | Upload and process newspaper PDF |
-| POST | `/api/ingestion/news` | Run daily news sync |
-| GET | `/api/ingestion/status` | Sync and provider telemetry |
-| GET | `/api/question-bank` | Combined MCQ, Mains, and PYQ bank |
-| GET | `/api/question-bank/export` | Export PDF, Word, or print text |
-| GET | `/api/stats` | Dashboard/admin metrics |
 
 ## Verify
 
