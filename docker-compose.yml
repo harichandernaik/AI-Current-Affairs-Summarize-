@@ -1,0 +1,17 @@
+services:
+  api:
+    build: .
+    ports: ["5000:5000"]
+    environment:
+      MONGO_URI: mongodb://mongo:27017
+      MONGO_DB: current_affairs
+      NEWS_API_KEY: ${NEWS_API_KEY:-}
+      ENABLE_DAILY_SYNC: ${ENABLE_DAILY_SYNC:-false}
+      DAILY_SYNC_HOUR: ${DAILY_SYNC_HOUR:-6}
+    depends_on: [mongo]
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    volumes: [mongo_data:/data/db]
+volumes:
+  mongo_data:

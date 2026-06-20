@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "green-hydrogen", "title": "India expands National Green Hydrogen Mission", "source": "The National Herald", "date": "2026-06-19", "category": "Environment",
+    "content": "India has expanded incentives under the National Green Hydrogen Mission to accelerate domestic electrolyser manufacturing and renewable hydrogen production. The programme seeks to reduce industrial emissions, improve energy security and create skilled employment. New pilot projects will focus on steel, shipping and long-haul transport while standards will support safe storage and trade.",
+    "summary": "India has expanded incentives under the National Green Hydrogen Mission to accelerate domestic electrolyser manufacturing and renewable hydrogen production. The programme seeks to reduce industrial emissions, improve energy security and create skilled employment. New pilot projects will focus on steel, shipping and long-haul transport while standards will support safe storage and trade.",
+    "keywords": ["Hydrogen", "Energy", "Emissions", "Mission", "Electrolyser", "Renewable"],
+    "mcqs": [{"question":"Green hydrogen is primarily produced using which energy source?","options":["Renewable electricity","Coal gasification","Diesel generation","Nuclear waste"],"answer":"Renewable electricity","explanation":"Electrolysis powered by renewable electricity produces green hydrogen."}],
+    "shortAnswerQuestions": ["How can green hydrogen improve India’s energy security?"], "practiceQuestions": ["Evaluate the role of green hydrogen in India’s transition to a low-carbon economy. (150 words)"]
+  },
+  {
+    "_id": "digital-competition", "title": "Parliamentary panel reviews digital competition framework", "source": "Civic Times", "date": "2026-06-18", "category": "Polity",
+    "content": "A parliamentary committee reviewed the proposed digital competition framework aimed at large technology platforms. The framework considers ex-ante obligations, transparent ranking practices and safeguards for consumer choice. Members discussed the need to balance innovation with fair markets and effective regulatory oversight.",
+    "summary": "A parliamentary committee reviewed a digital competition framework for large technology platforms. It considers advance obligations, ranking transparency and consumer choice while balancing innovation with fair-market oversight.",
+    "keywords": ["Competition", "Digital", "Parliament", "Platforms", "Regulation", "Consumers"],
+    "mcqs": [{"question":"Ex-ante regulation is applied at what stage?","options":["Before harm occurs","After judicial appeal","Only during elections","After market exit"],"answer":"Before harm occurs","explanation":"Ex-ante rules seek to prevent anti-competitive harm in advance."}],
+    "shortAnswerQuestions": ["What is ex-ante regulation?"], "practiceQuestions": ["Discuss how India can balance digital innovation and market competition. (150 words)"]
+  },
+  {
+    "_id": "quantum-network", "title": "Researchers demonstrate secure quantum communication link", "source": "Science Desk India", "date": "2026-06-17", "category": "Science & Technology",
+    "content": "Indian researchers demonstrated a quantum key distribution link over an existing fibre network. Quantum communication uses the principles of quantum mechanics to reveal interception attempts. The trial may support secure government and financial communications, although cost and distance remain important constraints.",
+    "summary": "Indian researchers demonstrated quantum key distribution over an existing fibre network. The technology can reveal interception attempts and strengthen sensitive communications, though cost and distance remain constraints.",
+    "keywords": ["Quantum", "Communication", "Security", "Network", "Research", "Encryption"],
+    "mcqs": [{"question":"Quantum key distribution can reveal what?","options":["Interception attempts","Inflation trends","Satellite orbits","Ocean currents"],"answer":"Interception attempts","explanation":"Measuring quantum states disturbs them, exposing eavesdropping."}],
+    "shortAnswerQuestions": ["Explain the basic security principle behind quantum key distribution."], "practiceQuestions": ["Assess the potential and limitations of quantum communication for public infrastructure. (150 words)"]
+  },
+  {
+    "_id": "indo-pacific", "title": "India and ASEAN deepen maritime cooperation", "source": "Global Affairs Review", "date": "2026-06-16", "category": "International Relations",
+    "content": "India and ASEAN members agreed to expand maritime domain awareness, humanitarian assistance exercises and blue economy research. The joint statement emphasised international law, freedom of navigation and peaceful settlement of disputes in the Indo-Pacific. Capacity building will include coastal monitoring and disaster response.",
+    "summary": "India and ASEAN agreed to expand maritime awareness, humanitarian exercises and blue-economy research. Cooperation emphasises international law, navigation freedom and peaceful dispute settlement in the Indo-Pacific.",
+    "keywords": ["ASEAN", "Maritime", "Indo-Pacific", "Cooperation", "Navigation", "Disaster"],
+    "mcqs": [{"question":"ASEAN is primarily associated with which region?","options":["Southeast Asia","West Asia","Central Europe","South America"],"answer":"Southeast Asia","explanation":"ASEAN groups ten Southeast Asian nations."}],
+    "shortAnswerQuestions": ["What is maritime domain awareness?"], "practiceQuestions": ["Examine ASEAN’s importance in India’s Indo-Pacific strategy. (250 words)"]
+  },
+  {
+    "_id": "inflation-target", "title": "Monetary policy committee retains inflation focus", "source": "Indian Economy Daily", "date": "2026-06-15", "category": "Economy",
+    "content": "The monetary policy committee retained its focus on aligning consumer inflation with the medium-term target while supporting growth. It noted softer food prices but flagged global commodity volatility. Liquidity operations will remain flexible to ensure orderly transmission of policy rates through the banking system.",
+    "summary": "The monetary policy committee retained its focus on the medium-term consumer-inflation target while supporting growth. It noted softer food prices, global commodity risks and the need for flexible liquidity management.",
+    "keywords": ["Inflation", "Monetary", "Liquidity", "Growth", "Banking", "Policy"],
+    "mcqs": [{"question":"Who sets India’s policy repo rate?","options":["Monetary Policy Committee","Finance Commission","NITI Aayog","GST Council"],"answer":"Monetary Policy Committee","explanation":"The RBI’s Monetary Policy Committee decides the policy repo rate."}],
+    "shortAnswerQuestions": ["How does policy-rate transmission work?"], "practiceQuestions": ["Discuss the challenges of balancing inflation control with economic growth. (150 words)"]
+  },
+  {
+    "_id": "heritage-route", "title": "Archaeological survey documents ancient trade corridor", "source": "Heritage Chronicle", "date": "2026-06-14", "category": "History",
+    "content": "An archaeological survey documented settlements, pottery and inscriptions along an ancient inland trade corridor. The evidence suggests sustained exchange between craft centres and ports across several centuries. Researchers say the findings can improve understanding of urbanisation and cultural interaction in early India.",
+    "summary": "An archaeological survey documented settlements, pottery and inscriptions along an ancient trade corridor. The evidence offers new insight into exchange, urbanisation and cultural interaction in early India.",
+    "keywords": ["Archaeology", "Trade", "Heritage", "Settlements", "Urbanisation", "Inscriptions"],
+    "mcqs": [{"question":"Inscriptions are studied under which discipline?","options":["Epigraphy","Numismatics","Palaeobotany","Cartography"],"answer":"Epigraphy","explanation":"Epigraphy is the study of inscriptions."}],
+    "shortAnswerQuestions": ["How do trade routes help historians understand urbanisation?"], "practiceQuestions": ["Explain the importance of archaeological evidence in reconstructing India’s economic history. (150 words)"]
+  }
+]
+

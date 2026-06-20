@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "85a41890ea7d",
+    "uploadedAt": "2026-06-21T00:32:30",
+    "filename": "Telangana_Today_12_May_2026.pdf",
+    "source": "Telangana Today",
+    "date": "2026-05-12",
+    "pages": 9,
+    "engine": "pypdf",
+    "createdCount": 5,
+    "ignoredCount": 0,
+    "batch": "e445c133f7"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "ai-current-affairs-summarizer",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "dev:frontend": "vite --host 127.0.0.1",
+    "dev:backend": "node scripts/run-backend.js",
+    "build": "vite build",
+    "test": "python -m unittest discover backend/tests"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "concurrently": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}

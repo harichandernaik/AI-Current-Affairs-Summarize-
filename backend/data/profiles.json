@@ -1,0 +1,11 @@
+[
+  {
+    "userId": "default",
+    "fullName": "Hari Naik",
+    "email": "hari@example.com",
+    "targetYear": "2027",
+    "optionalSubject": "",
+    "state": "",
+    "examType": "Civil Services Examination"
+  }
+]

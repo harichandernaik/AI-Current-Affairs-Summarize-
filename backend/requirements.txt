@@ -1,0 +1,12 @@
+Flask>=3.0
+flask-cors>=4.0
+pymongo>=4.6
+nltk>=3.8
+spacy>=3.7
+scikit-learn>=1.4
+gunicorn>=22.0
+requests>=2.32
+pypdf>=5.0
+pdfplumber>=0.11
+PyMuPDF>=1.24
+APScheduler>=3.10
